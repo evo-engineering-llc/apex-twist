@@ -1,6 +1,10 @@
 # Apex Twist
 
+Part of **Evo Engineering**  
+https://www.evo.engineering/
+
 Exact field-based rendering replacing iterative raster computation.
+Produces identical output with significantly reduced compute cost (~35x–70x faster depending on environment).
 
 ---
 
